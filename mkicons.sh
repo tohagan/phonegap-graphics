@@ -6,6 +6,9 @@
 #
 # Ideas for adding startup screen generation code using Inkscape layers:
 # - http://stackoverflow.com/questions/9652573/inkscape-command-line-programming
+#
+# Inkscape Verbs
+# - http://how-to.wikia.com/wiki/How_to_use_Inkscape_in_commandline_mode/List_of_verbs
 
 set -x
 
