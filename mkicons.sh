@@ -38,6 +38,7 @@ DEST=../../phonegap/www/res/icon
 #  Not configured in Cordova
 "$INKSCAPE" -w144 $OPTS --export-png=$DEST/android/icon-144-xxhdpi.png $SVG
 "$INKSCAPE" -w192 $OPTS --export-png=$DEST/android/icon-192-xxxhdpi.png $SVG
+"$INKSCAPE" -w512 $OPTS --export-png=$DEST/android/icon-512-web.png $SVG
 
 # PhoneGap iOS
 "$INKSCAPE" -w57 $OPTS --export-png=$DEST/ios/icon-57.png $SVG
