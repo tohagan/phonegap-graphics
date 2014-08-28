@@ -4,7 +4,7 @@
 
 Uses [Inkscape](http://www.inkscape.org/) to generate all initial icons of varying sizes required for each mobile platform as required by PhoneGap/Cordova 3.x applications.
 
-*Warning*: This tool often won't do the job as a final version as each icon size really should be [adapted for that size by a graphics designer](http://www.pushing-pixels.org/2011/11/04/about-those-vector-icons.html) but it will get you started and is useful as a first cut.  Refer to recommendations from vendor developer sites for required icon sizes and margins.
+*Warning*: This tool may not do the job for your final product as each icon size typically should be [adapted by a graphics designer](http://www.pushing-pixels.org/2011/11/04/about-those-vector-icons.html) but it will get you started and is very useful as a first cut. If your icon is simple enough it may be ok. Refer to recommendations from vendor developer sites for required icon sizes and placement margins.
 
 ### Generate screen sizes
 
