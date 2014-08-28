@@ -2,13 +2,6 @@
 #
 # Generates PhoneGap / Cordova icons for all platforms from a single SVG icon file.
 #
-# Ref: http://stackoverflow.com/questions/9647770/what-are-best-practices-for-using-svg-icons-on-android
-#
-# Ideas for adding startup screen generation code using Inkscape layers:
-# - http://stackoverflow.com/questions/9652573/inkscape-command-line-programming
-#
-# Inkscape Verbs
-# - http://how-to.wikia.com/wiki/How_to_use_Inkscape_in_commandline_mode/List_of_verbs
 
 set -x
 
